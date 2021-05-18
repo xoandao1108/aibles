@@ -1,0 +1,120 @@
+.menu{
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+}
+.menu .p1{
+    position: absolute;
+    width: 57px;
+    height: 43px;
+    left: 856px;
+    top: 27px;
+}
+.menu .p2{
+    position: absolute;
+    width: 106px;
+    height: 43px;
+    left: 882px;
+    top: 27px;
+}
+.menu .p3{
+position: absolute;
+width: 71px;
+height: 43px;
+left: 1021px;
+top: 27px;
+}
+.header .p1{
+position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px;
+font-weight: bold;
+font-size: 44px;
+line-height: 60px;
+color: rgba(33, 36, 61, 1);
+}
+.header .p2{
+position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+}
+.header .btn{
+    position: absolute;
+    width: 208px;
+    height: 47px;
+    left: 148px;
+    top: 477px;
+    color: white;
+    background-color: red;
+    border-radius: 2px;
+}
+.header .svg{
+position: absolute;
+left: 760px;
+top: 210px;
+background-image: url(file:///C:/Users/Admin/Downloads/Ellipse%201.svg);
+}
+.content{
+    position: absolute;
+    width: 1152px;
+    height: 396px;
+    left: 0px;
+    top: 595px;
+    background-color: rgba(237, 247, 250, 1);
+}
+.content .pct{
+margin-top: -60px;
+margin-right: 148px;
+text-align: right;
+color: rgba(0, 168, 204, 1);
+font-size: 16px;
+line-height: 23px;
+}
+.content ul{
+    list-style: none;
+    width: 1152px;
+    height: 396px;
+    padding: 148px;
+    padding-top: 0px;
+ 
+}
+.content ul li{
+width: 418px;
+height: 295px;
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+border-radius: 4px;
+display: inline-block;
+margin-bottom: 10px;
+}
+.picture ul{
+    list-style: none;
+    padding-top: 1088px;
+}
+.picture ul li{
+    padding-left: 146px;
+    border-bottom: rgba(224, 224, 224, 1);
+}
+.oval{
+position: absolute;
+background-color: black;
+color: rgba(255, 255, 255, 1);
+border-radius:60px / 30px ;
+margin-top: 60px;
+margin-left: 18px ;
+}
+.text{
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    margin-top: 80px;
+    margin-left: 18px ;
+}
